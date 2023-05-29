@@ -1,5 +1,4 @@
-/*hackerrank first problem to rverse the array
-first allocate the position,then using temp interchange the position for even numbers(num/2) and finally print the number*/
+
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
